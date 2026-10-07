@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Pytest
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets
+.env
+.env.*
+*.pem
+*.key
+
+# Generated output
+outputs/*.json
+evidence/*.txt

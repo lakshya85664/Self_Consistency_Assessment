@@ -1,0 +1,8 @@
+{
+  "test_file": "tests/test_self_consistency.py",
+  "command": "python -m pytest tests\\test_self_consistency.py -q",
+  "return_code": 0,
+  "status": "PASS",
+  "stdout": "................................                                         [100%]\n32 passed in 0.04s\n",
+  "stderr": ""
+}

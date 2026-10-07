@@ -1,0 +1,15 @@
+{
+  "task": 2,
+  "title": "Implement Majority Voting",
+  "question": "What is 17*3+4?",
+  "samples": 15,
+  "answer": 55,
+  "agreement": 0.47,
+  "votes": {
+    "10": 2,
+    "55": 7,
+    "1": 4,
+    "-1": 2
+  },
+  "abstained": false
+}

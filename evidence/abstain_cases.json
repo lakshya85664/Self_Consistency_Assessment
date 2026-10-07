@@ -1,0 +1,29 @@
+{
+  "task": 3,
+  "title": "Add an Abstain Rule",
+  "question": "What is 17*3+4?",
+  "below_threshold": {
+    "answer": null,
+    "agreement": 0.47,
+    "votes": {
+      "10": 2,
+      "55": 7,
+      "1": 4,
+      "-1": 2
+    },
+    "samples": 15,
+    "abstained": true
+  },
+  "exact_threshold": {
+    "answer": 55,
+    "agreement": 0.47,
+    "votes": {
+      "10": 2,
+      "55": 7,
+      "1": 4,
+      "-1": 2
+    },
+    "samples": 15,
+    "abstained": false
+  }
+}

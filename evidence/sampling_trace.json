@@ -1,0 +1,25 @@
+{
+  "task": 1,
+  "title": "Implement Sampling",
+  "question": "What is 17*3+4?",
+  "samples": 15,
+  "seed": 0,
+  "answers": [
+    10,
+    55,
+    10,
+    55,
+    1,
+    1,
+    55,
+    -1,
+    55,
+    1,
+    -1,
+    55,
+    1,
+    55,
+    55
+  ],
+  "deterministic": true
+}

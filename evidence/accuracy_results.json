@@ -1,0 +1,31 @@
+{
+  "task": 4,
+  "title": "Measure Accuracy for Different Sample Sizes",
+  "method": "independent_samples",
+  "results": [
+    {
+      "samples": 1,
+      "correct": 152,
+      "trials": 200,
+      "accuracy": 0.76
+    },
+    {
+      "samples": 5,
+      "correct": 180,
+      "trials": 200,
+      "accuracy": 0.9
+    },
+    {
+      "samples": 15,
+      "correct": 200,
+      "trials": 200,
+      "accuracy": 1.0
+    },
+    {
+      "samples": 31,
+      "correct": 200,
+      "trials": 200,
+      "accuracy": 1.0
+    }
+  ]
+}
